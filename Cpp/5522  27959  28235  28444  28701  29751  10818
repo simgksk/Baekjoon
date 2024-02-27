@@ -17,8 +17,6 @@ using namespace std;
 
 		cout << sum << endl;
 
-		return 0;
-
 #pragma endregion
 
 #pragma region 27959. 초코바
@@ -31,8 +29,6 @@ using namespace std;
 			cout << "Yes" << endl;
 		else
 			cout << "No" << endl;
-
-		return 0;
 
 #pragma endregion
 
@@ -51,8 +47,6 @@ using namespace std;
 		else if (aid == "ALGORITHM")
 			cout << "CONTEST" << endl;
 
-		return 0;
-
 #pragma endregion
 
 #pragma region 28444. HI-ARC=?
@@ -62,8 +56,6 @@ using namespace std;
 		cin >> h >> i >> a >> r >> c;
 
 		cout << (h * i) - (a * r * c) << endl;
-
-		return 0;
 
 #pragma endregion
 
@@ -84,8 +76,6 @@ using namespace std;
 		cout << sum1 << endl;
 		cout << sum2 << endl;
 		cout << sum3 << endl;
-
-		return 0;
 
 #pragma endregion
 
@@ -128,8 +118,7 @@ using namespace std;
 
 		printf("%d %d", min, max);
 
-		return 0;
-
 #pragma endregion
 
+		return 0;
 	}
