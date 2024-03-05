@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-#pragma region 5355. ȭ�� ����
+#pragma region 5355. È­¼º ¼öÇÐ
 
 	int t;
 	float a;
@@ -33,7 +33,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 2562. �ִ�
+#pragma region 2562. ÃÖ´ñ°ª
 
 	int n;
 	int max = 0;
