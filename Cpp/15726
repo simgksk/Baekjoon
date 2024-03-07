@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-#pragma region 15726. ÀÌÄ¢¿¬»ê
+#pragma region 15726. Ã€ÃŒÃ„Â¢Â¿Â¬Â»Ãª
 
 	long long a, b, c;
 
