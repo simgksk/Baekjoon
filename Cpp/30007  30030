@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-#pragma region 30007. ¶ó¸é °ø½Ä
+#pragma region 30007. ë¼ë©´ ê³µì‹
 
 	/*int n, a, b, x;
 
@@ -20,7 +20,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 30030. ½ºÀ§Æ®ÄÜ °¡°İ ±¸ÇÏ±â
+#pragma region 30030. ìŠ¤ìœ„íŠ¸ì½˜ ê°€ê²© êµ¬í•˜ê¸°
 
 	int b;
 
