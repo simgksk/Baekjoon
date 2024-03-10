@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-#pragma region 15552. ºü¸¥ A+B
+#pragma region 15552. ÂºÃ¼Â¸Â¥ A+B
 
 	cin.tie(NULL);
 	std::ios_base::sync_with_stdio(false);
@@ -22,7 +22,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 1264. ¸ðÀ½ÀÇ °³¼ö
+#pragma region 1264. Â¸Ã°Ã€Â½Ã€Ã‡ Â°Â³Â¼Ã¶
 
 	string s;
 
