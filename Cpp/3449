@@ -4,8 +4,6 @@ using namespace std;
 
 int main()
 {
-#pragma region 3449. 해밍 거리
-
 	int t;
 	string a, b;
 
@@ -25,9 +23,6 @@ int main()
 
 		cout << "Hamming distance is " << cnt << ".\n";
 	}
-
-#pragma endregion
-
 
 	return 0;
 }
