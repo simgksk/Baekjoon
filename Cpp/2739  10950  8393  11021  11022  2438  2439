@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-#pragma region 2739. ±¸±¸´Ü
+#pragma region 2739. Â±Â¸Â±Â¸Â´Ãœ
 
 	int n;
 
@@ -31,7 +31,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 8393. ÇÕ
+#pragma region 8393. Ã‡Ã•
 
 	int n;
 	int sum = 0;
@@ -75,7 +75,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 2438. º° Âï±â - 1
+#pragma region 2438. ÂºÂ° Ã‚Ã¯Â±Ã¢ - 1
 
 	int n;
 
@@ -90,7 +90,7 @@ int main()
 
 #pragma endregion
 
-#pragma region 2439. º° Âï±â - 2
+#pragma region 2439. ÂºÂ° Ã‚Ã¯Â±Ã¢ - 2
 
 	int n;
 
