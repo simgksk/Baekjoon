@@ -4,8 +4,6 @@ using namespace std;
 
 int main()
 {
-#pragma region 10178. ÇÒ·ÎÀ©ÀÇ »çÅÁ
-
 	int t, c, v;
 
 	cin >> t;
@@ -16,8 +14,6 @@ int main()
 
 		cout << "You get " << c / v << " piece(s) and your dad gets " << c % v << " piece(s).\n";
 	}
-
-#pragma endregion
 
 	return 0;
 }
