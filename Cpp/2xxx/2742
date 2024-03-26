@@ -6,10 +6,10 @@ using namespace std;
     {
         int n;
 		
-		cin >> n;
+	cin >> n;
 
-		for (int i = n; i > 0; i--)
-			printf("%d\n", i);
+	for (int i = n; i > 0; i--)
+		printf("%d\n", i);
         
         return 0;
     }
