@@ -4,11 +4,9 @@ using namespace std;
 
 int main()
 {
-#pragma region 3058. Â¦¼ö¸¦ Ã£¾Æ¶ó
+	int t, n;
 
-		int t, n;
-
-		cin >> t;
+	cin >> t;
 
 		for (int i = 0; i < t; i++)
 		{
@@ -31,8 +29,6 @@ int main()
 			}
 			cout << sum << " " << min << "\n";
 		}
-
-#pragma endregion
 
 	return 0;
 }
