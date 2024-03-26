@@ -5,24 +5,6 @@ using namespace std;
 
 int main()
 {
-#pragma region 2711. ¿ÀÅ¸¸Ç °íÃ¢¿µ
-
-	int t, n;
-	string str;
-
-	cin >> t;
-
-	while (t--)
-	{
-		cin >> n >> str;
-
-		cout << str.erase(n-1, 1) + "\n";
-	}
-
-#pragma endregion
-
-#pragma region 9086. ¹®ÀÚ¿­
-
 	int t;
 	string s;
 
@@ -39,8 +21,6 @@ int main()
 		else if (s.length() == 1)
 			cout << s << s << "\n";
 	}
-
-#pragma endregion
 
 	return 0;
 }
