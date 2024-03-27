@@ -6,7 +6,7 @@ int main()
 {
 #pragma region 30007. 라면 공식
 
-	/*int n, a, b, x;
+	int n, a, b, x;
 
 	cin >> n;
 
@@ -16,17 +16,7 @@ int main()
 		int w = a * (x - 1) + b;
 
 		cout << w << "\n";
-	}*/
-
-#pragma endregion
-
-#pragma region 30030. 스위트콘 가격 구하기
-
-	int b;
-
-	cin >> b;
-
-	cout << 10 * (b / 11);
+	}
 
 #pragma endregion
 
