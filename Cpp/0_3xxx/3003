@@ -4,17 +4,6 @@ using namespace std;
 
     int main()
     {
-#pragma region 2741. N찍기
-
-        int n;
-
-        cin >> n;
-
-        for (int i = 1; i <= n; i++)
-            printf("%d\n", i);
-
-#pragma endregion
-
 #pragma region 3003. 킹, 퀸, 룩, 비숍, 나이트, 폰
 
         int king, queen, rook, bishoop, knight, pawn;
@@ -74,43 +63,6 @@ using namespace std;
 
 #pragma endregion
 
-#pragma region 24883. 자동완성
-
-        string a;
-
-        cin >> a;
-
-        if (a == "N" || a == "n")
-            cout << "Naver D2" << endl;
-        else
-            cout << "Naver Whale" << endl;
-
-#pragma endregion
-
-#pragma region 14581. 팬들에게 둘러싸인 홍준
-
-        string id;
-
-        cin >> id;
-
-        for (int i = 0; i < 3; i++) 
-        {
-            for (int j = 0; j < 3; j++)
-            {
-                if (i == 1 && j == 1)
-                    cout << ":" << id << ":";
-                else
-                    printf(":fan:");
-            }
-            printf("\n");
-        }
-
         return 0;
-
-#pragma endregion
-
-
-
-
     }
 
