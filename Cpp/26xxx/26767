@@ -4,31 +4,6 @@ using namespace std;
 
 int main()
 {
-#pragma region 2845. 파티가 끝나고 난 뒤
-
-	int l, p, n;
-
-	cin >> l >> p;
-
-	for (int i = 0; i < 5; i++) 
-	{
-		cin >> n;
-
-		cout << n - (l * p) << " ";
-	}
-
-#pragma endregion
-
-#pragma region 15700. 타일 채우기 4
-
-	long long int n, m;
-
-	cin >> n >> m;
-
-	cout << (n * m) / 2;
-
-#pragma endregion
-
 #pragma region 26767. Hurra!
 
 	int n;
@@ -48,7 +23,6 @@ int main()
 	}
 
 #pragma endregion
-
 
 	return 0;
 }
