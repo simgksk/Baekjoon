@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	//1100. �Ͼ�ĭ
+	//1100. ÇÏ¾áÄ­
 
 	char board[9][9];
 	int cnt = 0;
