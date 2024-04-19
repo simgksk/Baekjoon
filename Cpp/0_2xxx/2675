@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	//2675. ¹®ÀÚ¿­ ¹İº¹
+	//2675. ë¬¸ìì—´ ë°˜ë³µ
 
 	int t, p;
 	string s;
