@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	//9506. ¾à¼öµéÀÇ ÇÕ
+	//9506. ì•½ìˆ˜ë“¤ì˜ í•©
 	int n;
 
 	while (true)
