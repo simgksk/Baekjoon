@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	//5598. ī�̻縣 ��ȣ
+	//5598. 카이사르 암호
 	string str;
 	char ch;
 
