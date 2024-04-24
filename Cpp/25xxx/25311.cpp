@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-    int y;
+    	int y;
 
-		cin >> y;
+	cin >> y;
 
-		cout << "A" << endl;
+	cout << "A" << endl;
 
-		return 0;
+	return 0;
 }
