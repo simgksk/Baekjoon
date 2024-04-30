@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int n;
+    		int n;
 		char s[101];
 		int sum = 0;
 
