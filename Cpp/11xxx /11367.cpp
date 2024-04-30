@@ -4,7 +4,7 @@ using namespace std;
 
 	int main()
 	{
-    int n, grade;
+   		int n, grade;
 		string name;
 
 		cin >> n;
