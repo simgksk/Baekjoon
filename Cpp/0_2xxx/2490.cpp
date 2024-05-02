@@ -4,7 +4,7 @@ using namespace std;
 
 	int main()
 	{
-        int a, b, c, d;
+        	int a, b, c, d;
 
 		for (int i = 0; i < 3; i++)
 		{
@@ -23,5 +23,5 @@ using namespace std;
 			else if (add == 4)
 				cout << "E" << endl;
 		}
-        return 0;
-    }
+        	return 0;
+    	}
