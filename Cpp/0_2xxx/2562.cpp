@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-  int n;
+  	int n;
 	int max = 0;
 	int idx = 0;
 
