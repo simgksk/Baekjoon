@@ -4,7 +4,7 @@ using namespace std;
 
     int main()
     {
-    int s_burger, j_burger, h_burger, cola, cider;
+    		int s_burger, j_burger, h_burger, cola, cider;
 
 		cin >> s_burger >> j_burger >> h_burger >> cola >> cider;
 
@@ -101,5 +101,5 @@ using namespace std;
 					cout << (j_burger + cola) - 50 << endl;
 			}
 		}
-        return 0;
+        	return 0;
     }
