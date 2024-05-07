@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int k, n, m;
+    		int k, n, m;
 
 		cin >> k >> n >> m;
 
@@ -13,5 +13,5 @@ int main()
 		else if (k * n <= m)
 			printf("%d", 0);
         
-        return 0;
+        	return 0;
 }
