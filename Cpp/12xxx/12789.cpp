@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	// 12789. µµÅ°µµÅ° °£½Äµå¸®¹Ì
+	// 12789. ë„í‚¤ë„í‚¤ ê°„ì‹ë“œë¦¬ë¯¸
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
