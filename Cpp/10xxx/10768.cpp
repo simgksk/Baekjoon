@@ -2,9 +2,9 @@
 
 using namespace std;
 
-	int main()
+int main()
   {
-    int m, d;
+    		int m, d;
 		
 		cin >> m >> d;
 
@@ -22,5 +22,5 @@ using namespace std;
 		else if (m > 2)
 			cout << "After" << endl;
         
-    return 0;
+    		return 0;
   }
