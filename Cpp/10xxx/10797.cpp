@@ -2,9 +2,9 @@
 
 using namespace std;
 
-	int main()
+int main()
   {
-    int day, a, b, c, d, e;
+   		int day, a, b, c, d, e;
 		int sum = 0;
 
 		cin >> day >> a >> b >> c >> d >> e;
