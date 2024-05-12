@@ -4,7 +4,7 @@ using namespace std;
 
 	int main()
 	{
-    int n, result = 1;
+    		int n, result = 1;
 
 		cin >> n;
 
@@ -14,4 +14,4 @@ using namespace std;
 		cout << result;
 
 		return 0;
-  }
+  	}
