@@ -2,32 +2,32 @@
 
 using namespace std;
 
-	int main()
+int main()
+{
+    	int n;
+	long int min = 1000000;
+	long int max = -1000000;
+
+	cin >> n;
+
+	for (int i = 0; i < n; i++)
 	{
-    int n;
-		long int min = 1000000;
-		long int max = -1000000;
+		int num;
 
-		cin >> n;
+		cin >> num;
 
-		for (int i = 0; i < n; i++)
-		{
-			int num;
+		if (num <= min)
+			min = num;
+		else
+			min = min;
 
-			cin >> num;
+		if (num >= max)
+			max = num;
+		else
+			max = max;
+	}
 
-			if (num <= min)
-				min = num;
-			else
-				min = min;
+	printf("%d %d", min, max);
 
-			if (num >= max)
-				max = num;
-			else
-				max = max;
-		}
-
-		printf("%d %d", min, max);
-
-		return 0;
-  }
+	return 0;
+}
