@@ -12,4 +12,4 @@
 |${\textsf{\color{silver}실버 4}}$|2024.03.01|
 |${\textsf{\color{silver}실버 3}}$|2024.04.23|
 |${\textsf{\color{silver}실버 2}}$|2024.06.12|
-|${\textsf{\color{silver}실버 1}}$||
+|${\textsf{\color{silver}실버 1}}$|2025.02.10|
