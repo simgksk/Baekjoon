@@ -1,6 +1,9 @@
 # 백준 Baekjoon
 브론즈 문제 위주로 풉니다.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iz3)](https://solved.ac/iz3/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=iz3&theme=dark)
+
 |티어|달성일|
 |------|---|
 |${\textsf{\color{brown}브론즈 5}}$|2023.03.23|
