@@ -16,3 +16,4 @@
 |${\textsf{\color{silver}실버 3}}$|2024.04.23|
 |${\textsf{\color{silver}실버 2}}$|2024.06.12|
 |${\textsf{\color{silver}실버 1}}$|2025.02.10|
+|${\textsf{\color{gold}골드 5}}$|2025.05.25|
