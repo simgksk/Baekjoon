@@ -1,5 +1,5 @@
 # 백준 Baekjoon
-브론즈 문제와 실버 문제 위주로 풉니다.
+주로 브론즈 문제와 실버 문제 위주로 풉니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iz3)](https://solved.ac/iz3/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=iz3&theme=dark)
