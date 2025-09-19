@@ -25,7 +25,7 @@ int main() {
 			cout << "2222\n";
 			cout << "   2\n";
 			cout << "2222\n";
-			cout << "2   \n";
+			cout << "2\n";
 			cout << "2222\n";
 		}
 		else if (s[i] == '3') {
@@ -44,14 +44,14 @@ int main() {
 		}
 		else if (s[i] == '5') {
 			cout << "5555\n";
-			cout << "5   \n";
+			cout << "5\n";
 			cout << "5555\n";
 			cout << "   5\n";
 			cout << "5555\n";
 		}
 		else if (s[i] == '6') {
 			cout << "6666\n";
-			cout << "6   \n";
+			cout << "6\n";
 			cout << "6666\n";
 			cout << "6  6\n";
 			cout << "6666\n";
@@ -80,4 +80,5 @@ int main() {
 		cout << "\n";
 	}
 	return 0;
+
 }
